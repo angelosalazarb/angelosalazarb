@@ -1,7 +1,7 @@
 
 <p align="center">Hi there! 👋 I am <a href="https://github.com/angelosalazarb">Ángelo</a><br>
 	✨Currently studying Computer Science💻 and Electrical Engineering⚡✨<br>
-	<br>I used to ride bike, and training cycling on vacations🚲<br>
+	<br>I used to ride bike, and train cycling on vacations🚲<br>
 	
 	
 
