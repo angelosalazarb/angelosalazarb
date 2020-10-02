@@ -1,10 +1,10 @@
 
 <p align="center">Hi there! 👋 I am <a href="https://github.com/angelosalazarb">Ángelo</a><br>
 	✨Currently studying Computer Science💻 and Electrical Engineering⚡✨<br>
+	<br>I used to ride bike, and training cycling on vacations🚲<br>
 	
 	
-	
-	
+<p align="center"><img src="https://giphy.com/gifs/bike-cycling-3og0ISvpQVLJwOaWv6" height="200"><br></p>
 	
 	
 
