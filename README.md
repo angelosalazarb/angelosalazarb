@@ -4,7 +4,7 @@
 	<br>I used to ride bike, and training cycling on vacations🚲<br>
 	
 	
-<p align="center"><img src="https://giphy.com/embed/lXiRF4GGxBvrarLaM" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/lXiRF4GGxBvrarLaM">via GIPHY</a></p><br></p>
+<p align="center"><img src="https://giphy.com/embed/lXiRF4GGxBvrarLaM" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen><p><a href="https://giphy.com/gifs/lXiRF4GGxBvrarLaM">via GIPHY</a></p><br></p>
 	
 	
 
