@@ -1,6 +1,6 @@
-### Hi there 👋
+
 <p align="center">Hi there! 👋 I am <a href="https://github.com/angelosalazarb">Ángelo</a><br>
-	✨Currently studying Computer Science💻 and Electrical Engineering⚡<br>
+	✨Currently studying Computer Science💻 and Electrical Engineering⚡✨<br>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=angelosalazarb&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="400"></p>
 <!--
