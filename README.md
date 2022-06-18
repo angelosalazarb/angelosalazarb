@@ -1,7 +1,7 @@
 
 <p align="center">Hi! 👋 I am <a href="https://github.com/angelosalazarb">Ángelo</a><br>
 	✨Currently studying Computer Science💻 and Electrical Engineering⚡✨<br>
-	<br><br>
+	<br>This is my <a href="https://bit.ly/LinkedInAngeloSalazar">LinkedIn</a> if you want to connect with me.👾<br>
 	
 	
 
